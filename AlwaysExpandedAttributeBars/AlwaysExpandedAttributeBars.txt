@@ -1,0 +1,12 @@
+## Title: Always Expanded Attribute Bars
+## Author: |cFF0000pardark|r, |c0099ffhex|r
+## Description: Attribute bars no longer change size
+## Version: 11.2
+## AddOnVersion: 12.0
+## APIVersion: 101039
+
+UI/Fonts.xml
+UI/HUD.xml
+
+
+AlwaysExpandedAttributeBars.lua
