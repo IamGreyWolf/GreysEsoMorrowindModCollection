@@ -11,7 +11,7 @@ By simplyfing UI, Visuals and removing unnecessary features, I was able to achie
 
 ### **AdvancedFilters**
 For my personal preference, I like being able to search my inventory more efficiently. Does not add any visual clutter in the normal gameplay.
-
+---
 
 ### **Clock**
 Lore-friendly time of day display. This can be tuned to be very minimalistic. In my settings I have put it in the lower right corner and it states the date and time of day beautifully.
