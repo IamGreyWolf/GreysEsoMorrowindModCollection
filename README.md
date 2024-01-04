@@ -41,7 +41,7 @@ By simplyfing UI, Visuals and removing unnecessary features, I was able to achie
 ## Game Settings
 
 ### Gameplay - Combat
-+Combat Cues - OFF  
+Combat Cues - OFF  
 Quick Cast Ground Abilities - On  
 Companion Ultimate Auto Cast - On  
 
