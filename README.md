@@ -13,35 +13,43 @@ By simplyfing UI, Visuals and removing unnecessary features, I was able to achie
   + For my personal preference, I like being able to search my inventory more efficiently. Does not add any visual clutter in the normal gameplay.
 
 + ### **Clock**
-Lore-friendly time of day display. This can be tuned to be very minimalistic. In my settings I have put it in the lower right corner and it states the date and time of day beautifully.
+  + Lore-friendly time of day display. This can be tuned to be very minimalistic. In my settings I have put it in the lower right corner and it states the date and time of day beautifully.
 
-### **Dryzler's Reticle**
-A more simplistic reticle, since I was not satisfied with the default one. I have set this to a little square that is way less irritating than the default game reticle.
++ ### **Dryzler's Reticle**
+  + A more simplistic reticle, since I was not satisfied with the default one. I have set this to a little square that is way less irritating than the default game reticle.
 
-### **GridList**
-Morrowind had a grid inventory, so I installed this to have this feature aswell.
++ ### **GridList**
+  + Morrowind had a grid inventory, so I installed this to have this feature aswell.
 
-### **Harven's Quest Journal**
-An immersive quest journal that updates all quests beautifully and lets you view through all of the text in a similar fashion to Morrowind.
++ ### **Harven's Quest Journal**
+  + An immersive quest journal that updates all quests beautifully and lets you view through all of the text in a similar fashion to Morrowind.
 
-### **HideChatMiniBar**
-The chat minibar is a distraction for me. This addon hides it.
++ ### **HideChatMiniBar**
+  + The chat minibar is a distraction for me. This addon hides it.
 
-**Immersive Mount Camera** - I used to play Morrowind in First Person Perspective. This mod forces the game to be in FPP even when riding your mount.
++ ### **Immersive Mount Camera**
+  + I used to play Morrowind in First Person Perspective. This mod forces the game to be in FPP even when riding your mount.
 
-**Immersive Quests** - Adds a bit more descriptive Text to the tasks of the quests.
++ ### **Immersive Quests**
+  + Adds a bit more descriptive Text to the tasks of the quests.
 
-**LoreBooks** - Compeletely optional. I have set this up in a way that it won't show you the books you haven't found yet on the map. You can activate this if you cannot find the books on your own or you are fed up with searching. There is a setting that let's you activate or deactivate unknown books on your map.
++ ### **LoreBooks**
+  + Compeletely optional. I have set this up in a way that it won't show you the books you haven't found yet on the map. You can activate this if you cannot find the books on your own or you are fed up with searching. There is a setting that let's you activate or deactivate unknown books on your map.
 
-**Lost Treasure** - Same as LoreBooks. Activate if wanted. 
++ ### **Lost Treasure**
+  + Same as LoreBooks. Activate if wanted. 
 
-**No Compass** - Morrowind had no fancy modern features like a compass.
++ ### **No Compass**
+  + Morrowind had no fancy modern features like a compass.
 
-**Pawksickles** - Replaces the ingame UI font with alternatives (my favorite mod). I have included the original morrowind font "MagicCards" in the folder but I am using another one for legibility reasons. If you want to use any other font, edit the lua file (don't worry, it's simple).
++ ### **Pawksickles**
+  + Replaces the ingame UI font with alternatives (my favorite mod). I have included the original morrowind font "MagicCards" in the folder but I am using another one for legibility reasons. If you want to use any other font, edit the lua file (don't worry, it's simple).
 
-**TrueExploration** - Adds an adjustable Fog of war to the map. Unexplored areas remain in the fog until you go there. If you have a character that has visited a lot of places already, you might need to walk the areas again to lift the fog. Otherwise this addon is amazinig for immersion and an oldschool feel.
++ ### **TrueExploration**
+  + Adds an adjustable Fog of war to the map. Unexplored areas remain in the fog until you go there. If you have a character that has visited a lot of places already, you might need to walk the areas again to lift the fog. Otherwise this addon is amazinig for immersion and an oldschool feel.
 
-**Votan's Darker Nights** - Personal choice. You can adjust the gamma values of day and night thus making the nights darker and more immersive.
++ ### **Votan's Darker Nights**
+  + Personal choice. You can adjust the gamma values of day and night thus making the nights darker and more immersive.
 
 
 ## Game Settings
