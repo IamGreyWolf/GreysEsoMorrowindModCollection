@@ -11,21 +11,21 @@ By simplyfing UI, Visuals and removing unnecessary features, I was able to achie
 
 ### **AdvancedFilters**
 For my personal preference, I like being able to search my inventory more efficiently. Does not add any visual clutter in the normal gameplay.
----
 
 ### **Clock**
 Lore-friendly time of day display. This can be tuned to be very minimalistic. In my settings I have put it in the lower right corner and it states the date and time of day beautifully.
 
-
 ### **Dryzler's Reticle**
 A more simplistic reticle, since I was not satisfied with the default one. I have set this to a little square that is way less irritating than the default game reticle.
 
+### **GridList**
+Morrowind had a grid inventory, so I installed this to have this feature aswell.
 
-**GridList** - Morrowind had a grid inventory, so I installed this to have this feature aswell.
+### **Harven's Quest Journal**
+An immersive quest journal that updates all quests beautifully and lets you view through all of the text in a similar fashion to Morrowind.
 
-**Harven's Quest Journal** - An immersive quest journal that updates all quests beautifully and lets you view through all of the text in a similar fashion to Morrowind.
-
-**HideChatMiniBar** - The chat minibar is a distraction for me. This addon hides it.
+### **HideChatMiniBar**
+The chat minibar is a distraction for me. This addon hides it.
 
 **Immersive Mount Camera** - I used to play Morrowind in First Person Perspective. This mod forces the game to be in FPP even when riding your mount.
 
