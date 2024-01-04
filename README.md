@@ -41,47 +41,47 @@ By simplyfing UI, Visuals and removing unnecessary features, I was able to achie
 ## Game Settings
 
 ### Gameplay - Combat
-Combat Cues - OFF
-Quick Cast Ground Abilities - On
-Companion Ultimate Auto Cast - On
+Combat Cues - OFF  
+Quick Cast Ground Abilities - On  
+Companion Ultimate Auto Cast - On  
 
-### Gameplay - Items
-Consolidate Area Loot - On
-Auto Loot - On
+### Gameplay - Items  
+Consolidate Area Loot - On  
+Auto Loot - On  
 
 ### Gameplay - Tutorials
-Tutorials - Off
+Tutorials - Off  
 
 ### Interface - HUD
-Display Name - Character Name
-Quest tracker - Off
-Quest Giver Icons - On (optional)
-Compass Quest Givers - Off
-Compass Active Quests - Off
-Compass Companions - Off
-Compass Target Markers - Off
-Weapon Indicator - On
-Armor Indicator - On
+Display Name - Character Name  
+Quest tracker - Off  
+Quest Giver Icons - On (optional)  
+Compass Quest Givers - Off  
+Compass Active Quests - Off  
+Compass Companions - Off  
+Compass Target Markers - Off  
+Weapon Indicator - On  
+Armor Indicator - On  
 
 ### Interface - Chat Bubbles
-Chat bubbles - Off
+Chat bubbles - Off  
 
 ### Nameplates - Nameplates
-Nameplates - Off
+Nameplates - Off  
 
 ### Nameplates - Healthbars
-Healthbars - Off
+Healthbars - Off  
 
 ### Nameplates - Indicators
-Alliance Indicators - Never
-Everything else - Off
+Alliance Indicators - Never  
+Everything else - Off  
 
 ### Combat - HUD
-Ability Bar - Dont Show
-Attribute Bars - Automatic
-Resource Numbers - Off
-Active Combat Tips - Dont Show
-Ultimate Number - Off
+Ability Bar - Dont Show  
+Attribute Bars - Automatic  
+Resource Numbers - Off  
+Active Combat Tips - Dont Show  
+Ultimate Number - Off  
 
 ### Combat - Combat Text
 All - Off
