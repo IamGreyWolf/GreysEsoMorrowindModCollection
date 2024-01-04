@@ -9,7 +9,7 @@ By simplyfing UI, Visuals and removing unnecessary features, I was able to achie
 ## Mod list
 *NOTE: This is my personal collection of mods. If you feel like a mod does not belong here with this play style, remove it. Likewiese, if you feel like mods are missing for you to have more fun, please add your own.*
 
-###**AdvancedFilters**
+### **AdvancedFilters**
 For my personal preference, I like being able to search my inventory more efficiently. Does not add any visual clutter in the normal gameplay.
 
 **Clock** - Lore-friendly time of day display. This can be tuned to be very minimalistic. In my settings I have put it in the lower right corner and it states the date and time of day beautifully.
