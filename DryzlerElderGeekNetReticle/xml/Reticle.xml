@@ -1,7 +1,0 @@
-<GuiXml>
-	<Controls>
-		<TopLevelControl name="DEG_Reticle" movable="false">
-
-		</TopLevelControl>
-	</Controls>
-</GuiXml>
