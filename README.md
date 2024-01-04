@@ -37,3 +37,54 @@ By simplyfing UI, Visuals and removing unnecessary features, I was able to achie
 
 **Votan's Darker Nights** - Personal choice. You can adjust the gamma values of day and night thus making the nights darker and more immersive.
 
+
+## Game Settings
+
+### Gameplay - Combat
+Combat Cues - OFF
+Quick Cast Ground Abilities - On
+Companion Ultimate Auto Cast - On
+
+### Gameplay - Items
+Consolidate Area Loot - On
+Auto Loot - On
+
+### Gameplay - Tutorials
+Tutorials - Off
+
+### Interface - HUD
+Display Name - Character Name
+Quest tracker - Off
+Quest Giver Icons - On (optional)
+Compass Quest Givers - Off
+Compass Active Quests - Off
+Compass Companions - Off
+Compass Target Markers - Off
+Weapon Indicator - On
+Armor Indicator - On
+
+### Interface - Chat Bubbles
+Chat bubbles - Off
+
+### Nameplates - Nameplates
+Nameplates - Off
+
+### Nameplates - Healthbars
+Healthbars - Off
+
+### Nameplates - Indicators
+Alliance Indicators - Never
+Everything else - Off
+
+### Combat - HUD
+Ability Bar - Dont Show
+Attribute Bars - Automatic
+Resource Numbers - Off
+Active Combat Tips - Dont Show
+Ultimate Number - Off
+
+### Combat - Combat Text
+All - Off
+
+### Combat - Buffs & Debuffs
+All - Dont Show
