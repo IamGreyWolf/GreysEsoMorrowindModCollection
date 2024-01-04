@@ -12,9 +12,14 @@ By simplyfing UI, Visuals and removing unnecessary features, I was able to achie
 ### **AdvancedFilters**
 For my personal preference, I like being able to search my inventory more efficiently. Does not add any visual clutter in the normal gameplay.
 
-**Clock** - Lore-friendly time of day display. This can be tuned to be very minimalistic. In my settings I have put it in the lower right corner and it states the date and time of day beautifully.
 
-**Dryzler's Reticle** - A more simplistic reticle, since I was not satisfied with the default one. I have set this to a little square that is way less irritating than the default game reticle.
+### **Clock**
+Lore-friendly time of day display. This can be tuned to be very minimalistic. In my settings I have put it in the lower right corner and it states the date and time of day beautifully.
+
+
+### **Dryzler's Reticle**
+A more simplistic reticle, since I was not satisfied with the default one. I have set this to a little square that is way less irritating than the default game reticle.
+
 
 **GridList** - Morrowind had a grid inventory, so I installed this to have this feature aswell.
 
