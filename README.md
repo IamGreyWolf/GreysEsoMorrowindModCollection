@@ -9,6 +9,10 @@ By simplyfing UI, Visuals and removing unnecessary features, I was able to achie
 ## Mod list
 *NOTE: This is my personal collection of mods. If you feel like a mod does not belong here with this play style, remove it. Likewiese, if you feel like mods are missing for you to have more fun, please add your own.*
 
+## How to install Mods/Addons for ESO
+Extract the ZIP file into this folder:
+C:\Users\[USERNAME]\Documents\Elder Scrolls Online\live\AddOns
+
 + ### **AdvancedFilters**
   + For my personal preference, I like being able to search my inventory more efficiently. Does not add any visual clutter in the normal gameplay.
 
