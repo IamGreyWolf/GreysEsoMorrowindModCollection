@@ -47,7 +47,7 @@ C:\Users\[USERNAME]\Documents\Elder Scrolls Online\live\AddOns
   + Morrowind had no fancy modern features like a compass.
 
 + ### **Pawksickles**
-  + Replaces the ingame UI font with alternatives (my favorite mod). I have included the original morrowind font "MagicCards" in the folder but I am using another one for legibility reasons. If you want to use any other font, edit the lua file (don't worry, it's simple).
+  + Replaces the ingame UI font with alternatives (my favorite mod). I did not use the original Morrowind font (although possible) for legibility reasons. If you want to use any other font, edit the lua file (don't worry, it's simple). Go to places like dafont.com and look for apropriate fonts that match the aesthetic but also are legible.
 
 + ### **TrueExploration**
   + Adds an adjustable Fog of war to the map. Unexplored areas remain in the fog until you go there. If you have a character that has visited a lot of places already, you might need to walk the areas again to lift the fog. Otherwise this addon is amazinig for immersion and an oldschool feel.
