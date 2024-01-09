@@ -55,6 +55,8 @@ C:\Users\[USERNAME]\Documents\Elder Scrolls Online\live\AddOns
 + ### **Votan's Darker Nights**
   + Personal choice. You can adjust the gamma values of day and night thus making the nights darker and more immersive.
 
++ ### **NTak Dialog**
+  + Immersive Dialog styling.
 
 ## Game Settings
 
