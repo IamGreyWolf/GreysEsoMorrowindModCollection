@@ -22637,11 +22637,14 @@ local bookData = {
     },
   },
   [2061] = {
-    ["c"] = false,
+    ["c"] = true,
     ["cn"] = "Rituals and Revelations",
     ["n"] = "Rite of the Scion",
     ["q"] = 4964,
     ["e"] = {
+	  [1] = { ["px"] = 0.6502459929, ["py"] = 0.3395695940, ["pm"] = 125, ["qc"] = true, },
+	  [2] = { ["px"] = 0.2928688050, ["py"] = 0.3249747964, ["pm"] = 20, ["qc"] = true, },
+	  [3] = { ["px"] = 0.4730187796, ["py"] = 0.5727820058, ["pm"] = 256, ["qc"] = true, },
     },
   },
   [2062] = {
@@ -51325,7 +51328,6 @@ local bookData = {
     ["cn"] = "The Reach Reader",
   },
   [6252] = {
-    ["c"] = false,
     ["c"] = true,
     ["cn"] = "The Devoted and the Deranged",
     ["n"] = "The Undaunted Need You!",
@@ -58101,6 +58103,14 @@ local bookData = {
       [1] = { ["px"] = 0.8350176111, ["py"] = 0.4447179990, ["pm"] = 2274, ["qp"] = true, },
     },
   },
+  [7713] = {
+    ["c"] = true,
+    ["cn"] = "Tomes of Tributes",
+    ["n"] = "Challenge of the Paramount",
+    ["e"] = {
+	  [1] = { ["px"] = 0.0704384028, ["py"] = 0.6051880052, ["pm"] = 2163, },
+    },
+  },
   -- TODO Check this
   [7714] = {
     ["c"] = true,
@@ -58421,6 +58431,14 @@ local bookData = {
     ["e"] = {
       [1] = { ["px"] = 0.1758739930, ["py"] = -0.0305527941, ["pm"] = 2417, ["d"] = true, },
       [2] = { ["px"] = 0.1752616046, ["py"] = -0.0298643984, ["pm"] = 2275, ["fp"] = true, },
+    },
+  },
+  [7941] = {
+    ["c"] = true,
+    ["cn"] = "Tomes of Tributes",
+    ["n"] = "Challenge of the Archivist",
+    ["e"] = {
+	  [1] = { ["px"] = 0.0702600025, ["py"] = 0.6047920052, ["pm"] = 2163, }
     },
   },
 }
