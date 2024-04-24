@@ -1,8 +1,8 @@
 ## Title: HideChatMiniBar
 ## Author: Saint-Ange
 ## Description: Hide chat window minimized bar
-## Version: 1.1.0
-## APIVersion: 101040
+## Version: 1.1.1
+## APIVersion: 101041
 
 
 HideChatMiniBar.lua

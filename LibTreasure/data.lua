@@ -111,7 +111,7 @@ local ALL_DATA = {
 		},
 		[PIN_TYPE_CLUES] = {
 			{ 0.1806, 0.4800, "no map opened", 187890 }, -- Hlaalu Councilor Clue
-			{ 0.5265, 0.5698, "no map opened", 197843 }, -- Mercymother Elite Clue
+			{ 0.5284, 0.5718, "no map opened", 197843 }, -- Mercymother Elite Clue
 		},
 	},
 	-- SubPin: Narsis
@@ -342,6 +342,7 @@ local ALL_DATA = {
 			{ 0.8385, 0.5716, "treasuremap_therift_05", 43683 }, -- The Rift Treasure Map V
 			{ 0.7514, 0.6394, "treasuremap_therift_06", 43684 }, -- The Rift Treasure Map VI
 			{ 0.5813, 0.6096, "treasuremap_ce_ebonheart_rift_06", 44947 }, -- The Rift CE Treasure Map
+			{ 0.3534, 0.3364, "treasuremap_u37", 194360 }, -- Rift Treasure Map, Scrivener's Treasure
 		},
 		[PIN_TYPE_SURVEYS] = {
 			{ 0.6293, 0.3578, "therift_survey_clothier", 57765 }, -- Clothier Survey: The Rift
@@ -936,6 +937,32 @@ local ALL_DATA = {
 			{ 0.4000, 0.3886, "necrom_survey_alchemist", 198288 }, -- Alchemist Survey: Apocrypha
 		},
 	},
+	-- West Weald
+	[2427] = {
+		[PIN_TYPE_TREASURE] = {
+			--{ 0.6011, 0.8681, "treasuremap_u42_theforgottenprince_ce3", 206535 }, -- West Weald Pre-Purchase Treasure Map I
+			{ 0.4109, 0.5732, "treasuremap_u42_theforgottenprince_ce2", 206536 }, -- West Weald Pre-Purchase Treasure Map II
+			{ 0.4551, 0.6938, "treasuremap_u42_theforgottenprince_07", 206537 }, -- West Weald Pre-Purchase Treasure Map III
+			--{ 0.1689, 0.5375, "treasuremap_u42_theforgottenprince_ce1", 207964 }, -- West Weald Treasure Map I
+			{ 0.8735, 0.6098, "treasuremap_u42_theforgottenprince_02", 207965 }, -- West Weald Treasure Map II
+			--{ 0.7412, 0.3167, "treasuremap_u42_theforgottenprince_03", 207966 }, -- West Weald Treasure Map III
+			{ 0.6317, 0.5825, "treasuremap_u42_theforgottenprince_04", 207967 }, -- West Weald Treasure Map IV
+			--{ 0.6105, 0.7496, "treasuremap_u42_theforgottenprince_05", 207968 }, -- West Weald Treasure Map V
+			{ 0.5876, 0.3717, "treasuremap_u42_theforgottenprince_07", 207969  }, -- West Weald Treasure Map VI
+		},
+		[PIN_TYPE_SURVEYS] = {
+			{ 0.5663, 0.3285, "gold_road_survey_blacksmith", 207990 }, -- Blacksmith Survey: West Weald
+			{ 0.5921, 0.6458, "gold_road_survey_woodworker", 166456 }, -- Woodworker Survey: West Weald
+			{ 0.9278, 0.6745, "gold_road_survey_jewelrycrafting", 207993 }, -- Jewelry Crafting Survey: West Weald
+			{ 0.2724, 0.5791, "gold_road_survey_clothier", 207991 }, -- Clothier Survey: West Weald
+			{ 0.4829, 0.7860, "gold_road_survey_enchanter", 207992 }, -- Enchanter Survey: West Weald
+			{ 0.5397, 0.4836, "gold_road_survey_alchemist", 207989 }, -- Alchemist Survey: West Weald
+		},
+		[PIN_TYPE_CLUES] = {
+			{ 0.7693, 0.5062, "no map opened", 207971 }, -- Whitestrake Ascendant Clue
+			--{ 0.1234, 0.1234, "no map opened", 207972 }, -- Morihaus, Sacred Bull Clue
+		},
+	},
 }
 
 do
@@ -1022,5 +1049,6 @@ data.BOOK_ID =
 	[7768] = 197843, -- Mercymother Elite Clue
 	[8010] = 203825, -- Unfathomable Secrets Clue
 	[8011] = 203826, -- Lantern of the Endless Clue
-	
+	[8203] = 207971, -- Whitestrake Ascendant Clue
+	[8205] = 207972, -- Morihaus, Sacred Bull Clue
 }

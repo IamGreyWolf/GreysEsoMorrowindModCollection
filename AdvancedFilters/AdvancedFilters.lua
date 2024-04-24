@@ -37,30 +37,38 @@ ZO_StackSplitSource_DragStart:4: in function '(main chunk)'
 
 --[[
 
+--#76 Add support for nested submenus in nested submenus (currently only 1 level depth is supported)
 
 
-------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------
---TODO Last updated: 2023-06-08
---Max todos: #73
 
 ------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------
---CURRENTLY WORKING ON - Last updated: 2023-06-08
+--TODO Last updated: 2024-04-01
+--Max todos: #77
+
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+--CURRENTLY WORKING ON - Last updated: 2024-04-01
 
 --==========================================================================================================================================================================
 --______________________________________________________________________________________________________________________
---  UPDATE INFORMATION: since AF 1.6.3.0 - Current 1.6.3.1
+--  UPDATE INFORMATION: since AF 1.6.4.1 - Current 1.6.4.2
 --______________________________________________________________________________________________________________________
 
 -- ADDED
 --
 --
 -- ADDED ON REQUEST
+--#75 Added nested submenu support via LibScrollableMenu to filter plugins. Currently only 1 level of depth is supported for nested submenus (Means: menu -> submenu -> submenu).
+-->    Use nestedSubmenuEntries = yourNestedSubmenuCallbackTable in your plugins filterInformation.callbackTable to add the table of nested submenus. Your filterInformation.submenuName must be specified too.
+-->    enStrings must contain each's "name" entry of the table yourNestedSubmenuCallbackTable, and the table yourNestedSubmenuCallbackTable must contain entries with name = String and filterCallback = filterFunction.
+-->    See one example: AF filter plugin "FCO CraftedSetFilters"
 
 -- CHANGED
 
 -- FIXED
+--#74 Fix "Unbound & unknown set item collections" to show any companion items
+--#77 Fix entries in filter dropdowns being clickable if they should only open a submenu
 
 
 ---==========================================================================================================================================================================
